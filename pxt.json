@@ -1,0 +1,28 @@
+{
+    "name": "ESCAPE NY",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "OLED-skjerm": "github:oysa88/oled-skjerm#16ad06abc4c0c7bfb6a63685ed96cfcd980abd9b",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.6",
+        "rfid": "github:oysa88/rfid#v0.0.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "9.0.12",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
