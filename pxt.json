@@ -7,7 +7,8 @@
         "microphone": "*",
         "OLED-skjerm": "github:oysa88/oled-skjerm#16ad06abc4c0c7bfb6a63685ed96cfcd980abd9b",
         "neopixel": "github:microsoft/pxt-neopixel#v0.7.6",
-        "rfid": "github:oysa88/rfid#v0.0.1"
+        "rfid": "github:oysa88/rfid#v0.0.1",
+        "servo": "*"
     },
     "files": [
         "main.blocks",
